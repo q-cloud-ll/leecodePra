@@ -6,16 +6,35 @@ import (
 )
 
 func main() {
-	var list = make([]int, 5, 10)
-	var list2 = make([]int, 5, 10)
-	for i := 0; i < len(list); i++ {
-		list[i] = i * 2
-		list2[i] = i + 1
-	}
-
-	PrintList(leecode_list.Merge(createList(list), createList(list2)))
+	res := minSwaps([]int{2, 4, 1, 3, 5}, 3)
+	fmt.Println(res)
 }
-
+func minSwaps(arr []int, k int) int {
+	n := len(arr)
+	kCount := 0
+	for i := 0; i < n; i++ {
+		if arr[i] == k {
+			kCount++
+		}
+	}
+	if kCount == 0 {
+		return 0
+	}
+	kPos := n - kCount
+	swaps := 0
+	for i := 0; i < n && kPos < n; i++ {
+		if arr[i] != k {
+			if i < kPos {
+				kPos++
+			} else {
+				arr[kPos], arr[i] = arr[i], arr[kPos]
+				swaps++
+				kPos++
+			}
+		}
+	}
+	return swaps
+}
 func createList(list []int) *leecode_list.ListNode {
 	root := &leecode_list.ListNode{Val: list[0]}
 	tail := root
