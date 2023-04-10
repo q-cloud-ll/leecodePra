@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b9ef298-837f-405a-8740-d10ea035596a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_easy/cherry.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_list/addTwoNumbers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_list/mergeTwoLists.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_list/reverseList.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sql/pratice.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day10_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day1_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day1_2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day2_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day2_2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day2_3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day3_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day3_2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day4_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day4_2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day4_3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day5_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day5_2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day5_3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leecode_sword_to_offer/day6_2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-    </list>
+    <list default="true" id="4b9ef298-837f-405a-8740-d10ea035596a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
